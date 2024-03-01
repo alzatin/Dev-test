@@ -277,7 +277,12 @@
             "x": 0.98,
             "y": 0.5,
             "uniqueID": 260913,
-            "ioValues": []
+            "ioValues": [
+                {
+                    "name": "number or geometry",
+                    "ioValue": 652529
+                }
+            ]
         },
         {
             "atomType": "Assembly",
@@ -429,6 +434,13 @@
             "ap2Primary": false,
             "ap1ID": 874550,
             "ap2ID": 651710
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "number or geometry",
+            "ap2Primary": false,
+            "ap1ID": 652529,
+            "ap2ID": 260913
         }
     ],
     "fileTypeVersion": 1,
